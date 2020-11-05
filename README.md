@@ -3,7 +3,7 @@
 ### Hi there, I'm gamerdude - aka qt_coder 👋
 
 
-### xI'm a High School Student Interested In Programming!!
+### I'm a High School Student Interested In Programming!!
 🌱 I’m currently Data Structures and Algorithms
 🥅 2020 Goals: Contributing to more open-source projects
 
