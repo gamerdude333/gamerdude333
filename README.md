@@ -7,5 +7,5 @@
 🌱 I’m currently Data Structures and Algorithms
 🥅 2020 Goals: Contributing to more open-source projects
 
-
+Check out my website: https://qt-coder.netlify.app/
 [instagram]: https://instagram.com/qt_coder
