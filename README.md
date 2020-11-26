@@ -1,6 +1,6 @@
 [![Gamerdude's github stats](https://github-readme-stats.vercel.app/api?username=gamerdude333&show_icons=true&theme=synthwave)](https://github.com/gamerdude333/github-readme-stats)
 
-### Hi there, I'm gamerdude - aka qt_coder 👋
+### Hi there, I'm qt_coder 👋
 
 
 ### I'm a High School Student Interested In Programming!!
