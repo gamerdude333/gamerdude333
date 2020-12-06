@@ -4,7 +4,7 @@
 
 
 ### I'm a High School Student Interested In Programming!!
-🌱 I’m currently Data Structures and Algorithms
+🌱 I’m currently learning Data Structures and Algorithms
 🥅 2020 Goals: Contributing to more open-source projects
 
 Check out my website: https://qt-coder.netlify.app/
