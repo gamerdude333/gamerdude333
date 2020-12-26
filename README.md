@@ -1,4 +1,4 @@
-[![Gamerdude's github stats](https://github-readme-stats.vercel.app/api?username=gamerdude333&show_icons=true&theme=synthwave)](https://github.com/gamerdude333/github-readme-stats)
+[![Gamerdude's github stats](https://github-readme-stats.vercel.app/api?username=qt-coder&show_icons=true&theme=synthwave)](https://github.com/gamerdude333/github-readme-stats)
 
 ### Hi there, I'm qt_coder 👋
 
